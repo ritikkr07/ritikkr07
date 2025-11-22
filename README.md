@@ -41,5 +41,5 @@ Docker | Postman | Git | GitHub | VS Code
 ---
 
 ### 📫 Connect With Me  
-📩 Email: your-email  
-🌐 LinkedIn: your-link
+📩 Email: ritikhans122003@gmail.com  
+🌐 LinkedIn:https://www.linkedin.com/in/ritikkumar1203/
